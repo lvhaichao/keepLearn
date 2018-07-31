@@ -31,3 +31,4 @@ class DataOutput(object):
             f.write('</body>')
             f.write('</html>')
 			f.write('</html>')
+			f.write('</html>')
